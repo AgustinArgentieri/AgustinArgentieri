@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AgustinArgentieri
 - 👀 I’m interested in learning programming and apply it in my work.
-- 🌱 I’m currently learning Python and Django
 - 📫 You can contact me on linkedin (https://www.linkedin.com/in/agustin-argentieri-7952b8118/)
 
 <!---
